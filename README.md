@@ -1,4 +1,4 @@
-# PhoneGap Build Starter Application
+# Rendzinas PhoneGap Build Starter Application
 
 > A Hello World application to get started with PhoneGap Build.
 
